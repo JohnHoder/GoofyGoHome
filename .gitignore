@@ -1,1 +1,4 @@
 misc/mail.log
+__pycache__/*
+webserver_data/*
+data/*
