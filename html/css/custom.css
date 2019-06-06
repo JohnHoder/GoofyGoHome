@@ -1,0 +1,32 @@
+a {
+	font-family: courier,fixed,swiss,sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+
+}
+a:active {
+	text-decoration: underline;
+	color: #eeeeee;
+}
+a:hover {
+	color: #04a0ff;
+}
+
+.lh15 {
+	line-height: 15px;
+}
+
+.term {
+	font-family: "Courier New",courier,fixed,monospace;
+	font-size: 13px;
+	color: #94aad6;
+	background: none;
+	letter-spacing: 1px;
+}
+.term .termReverse {
+	color: #232e45;
+	background: #95a9d5;
+}
+
+
